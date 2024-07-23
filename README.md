@@ -1,10 +1,22 @@
-# udemy_1
+# Dice Roller App
 
-A new Flutter project.
+## Overview
+This is a simple Dice Roller app built using Dart with the Flutter framework. The app simulates rolling a dice and produces a random value between 1 and 6 when the "Roll the Dice" button is clicked.
 
-## Getting Started
+## Features
+Random Dice Roll: Generates a random number between 1 and 6 on each button click.
+Interactive UI: Simple and user-friendly interface with a responsive button for rolling the dice.
+Flutter Framework: Utilizes the Flutter framework for cross-platform compatibility and smooth performance.
 
-This project is a starting point for a Flutter application.
+## Usage
+Open the app.
+Click the "Roll the Dice" button.
+View the randomly generated dice value on the screen.
+Contributing
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
 
 A few resources to get you started if this is your first Flutter project:
 
