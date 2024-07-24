@@ -8,7 +8,7 @@ void main() {
       home: Scaffold(
         //backgroundColor: Colors.amberAccent,
         body: GradientContainer(
-          colors: [ Color.fromARGB(255, 152, 241, 108),Color.fromRGBO(226, 220, 135, 1), Color.fromARGB(255, 232, 133, 76)],
+          colors: [ Color.fromARGB(255, 7, 127, 45),Color.fromRGBO(108, 213, 245, 1), Color.fromARGB(255, 36, 68, 231)],
         ),
       ),
     ),
